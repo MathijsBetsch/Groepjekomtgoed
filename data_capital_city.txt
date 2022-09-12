@@ -1,0 +1,48 @@
+Albanie/Tirana
+Andorra/Andorra la Vella
+Belgie/Brussel
+Bosnie en Herzegovina/Sarajevo
+Bulgarije/Sofia
+Cyprus/Nicosia
+Denemarken/Kopenhagen
+Duitsland/Berlijn
+Estland/Tallinn
+Finland/Helsinki
+Frankrijk/Parijs
+Griekenland/Athene
+Hongarije/Boedapest
+Ierland/Dublin
+IJsland/Reykjavik
+Italie/Rome
+Kosovo/Pristina
+Kroatie/Zagreb
+Letland/Riga
+Liechtenstein/Vaduz
+Litouwen/Vilnius
+Luxemburg/Luxemburg
+Malta/Valletta
+Moldavië/Chisinau
+Monaco/Monaco
+Montenegro/Podgorica
+Nederland/Amsterdam
+Noord-Macedonie/Skopje
+Noorwegen/Oslo
+Oekraïne/Kiev
+Oostenrijk/Wenen
+Polen/Warschau
+Portugal/Lissabon
+Roemenië/Boekarest
+Rusland/Moskou
+San Marino/San Marino
+Servië/Belgrado
+Slovenie/Ljubljana
+Slowakije/Bratislava
+Spanje/Madrid
+Tsjechië/Praag
+Turkije/Ankara
+Vaticaanstad/Vaticaanstad
+Verenigd Koninkrijk/Londen
+Wit-Rusland/Minsk
+Zweden/Stockholm
+Zwitserland/Bern 
+azerbaijan/Bakoe
